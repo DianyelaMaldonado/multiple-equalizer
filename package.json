@@ -1,0 +1,15 @@
+{
+  "name": "multiple-equalizer",
+  "version": "1.0.0",
+  "description": "Equalizer for multiple elements",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dianyela Maldonado",
+  "license": "MIT",
+  "bin": {
+    "multiple-equalizer": "global.js"
+  },
+  "preferGlobal": true
+}
