@@ -6,10 +6,24 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DianyelaMaldonado/multiple-equalizer.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
   "author": "Dianyela Maldonado",
   "license": "MIT",
+  "preferGlobal": true,
   "bin": {
-    "multiple-equalizer": "global.js"
+    "multiple-equalizer": "bin/global.js"
   },
-  "preferGlobal": true
+  "bugs": {
+    "url": "https://github.com/DianyelaMaldonado/multiple-equalizer/issues"
+  },
+  "homepage": "https://github.com/DianyelaMaldonado/multiple-equalizer#readme",
+  "devDependencies": {}
 }
