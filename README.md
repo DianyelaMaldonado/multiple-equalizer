@@ -9,9 +9,6 @@ npm i multiple-equalizer
 
 ### Usage:
 
-| `data-alloyEqualize-multiple =` | 🛸  **Parent wrapper** |
-| `data-alloyequalize-watch-1, data-alloyequalize-watch-2 , data-alloyequalize-watch-3 =` | 👽👽👽 **Equalizable content.** |
-
 Import function:
 
     import { multipleEqualizer } from  "multiple-equalizer"; 
@@ -37,7 +34,7 @@ Call function on window load and resize:
 
 | Property Name               | Description                                                                                                                                                                                                                               | Default Value |
 |-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
-| data-alloyEqualize-multiple | Main property of the plugin, this needs to be set on the parent/wrapper component of the elements that are going to be equalized. Its value is a number from 1 to N depending on how many elements of its children needs to be equalized. | -             |
+| data-alloyEqualize-multiple | Main property of the plugin, this needs to be set on the parent/wrapper component of the elements that are going to be equalized. Its value is a number from 1 to N depending on how many elements of its children needs to be equalized. | 10             |
 | data-alloyequalize-watch-N  | All the children elements that are going to be equalized needs to have this prop replacing the N with an integer number.                                                                                                                  | -             |
 
 📏 **Example:**
