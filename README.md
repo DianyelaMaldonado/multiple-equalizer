@@ -5,6 +5,7 @@ For example the most used case is in cards, so that when one has more content th
 
 ### Instalation: 🔧
 
+npm i multiple-equalizer
 
 ### Usage: 💻
 
@@ -16,13 +17,13 @@ For example the most used case is in cards, so that when one has more content th
 
 📏 **Example:**
 
-    ```
+    
 	    <div data-alloyEqualize-multiple>
 		   <div data-alloyequalize-watch-1>Your amazing equalizable content here</div>
 		   <div data-alloyequalize-watch-2>Your amazing equalizable content here</div>
 		   <div data-alloyequalize-watch-3>Your amazing equalizable content here</div>
 	    </div>
-    ```
+    
     
 🪐 The end result would be something like this:
 
