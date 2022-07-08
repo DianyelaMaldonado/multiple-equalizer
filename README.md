@@ -9,8 +9,9 @@ npm i multiple-equalizer
 
 ### Usage:
 
-| `data-alloyEqualize-multiple =` |  **Parent wrapper of the content to be equalized.**  🛸 |
-| `data-alloyequalize-watch-1, data-alloyequalize-watch-2 , data-alloyequalize-watch-3 =` |  **Equalizable content.** 👽👽👽 |
+| `data-alloyEqualize-multiple =` |  **Parent wrapper**  🛸 |
+| `data-alloyequalize-watch-1, data-alloyequalize-watch-2 , data-alloyequalize-watch-3 =` |  **Equalizable content.** 
+👽👽👽 |
 
 Import function:
 
