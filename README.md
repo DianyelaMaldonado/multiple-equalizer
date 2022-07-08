@@ -9,10 +9,17 @@ npm i multiple-equalizer
 
 ### Usage: 💻
 
-`data-alloyEqualize-multiple =`  **Parent wrapper of the content to be equalized.** 🛸
-
- 
-`data-alloyequalize-watch-1, data-alloyequalize-watch-2 , data-alloyequalize-watch-3 =`  **Equalizable content.** 👽👽👽
+___
+|Parent wrapper of the content to be equalized  | 🦺|
+|--|--|
+|data-alloyEqualize-multiple | 🧰  |
+___
+|Equalizable content  | ⛑ |
+|--|--|
+|data-alloyequalize-watch-1 |  🪚 |
+|data-alloyequalize-watch-2  |🔨 |
+|data-alloyequalize-watch-3  | 🪛 |
+___
 
 
 📏 **Example:**
@@ -24,7 +31,7 @@ npm i multiple-equalizer
 	</div>
 	
     
-🪐 The end result would be something like this:
+🥽 The end result would be something like this:
 
 ![multiple equalizer cards example](https://i.imgur.com/pMMVvVi.png)
 
