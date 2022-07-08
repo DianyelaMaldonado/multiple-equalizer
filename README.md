@@ -29,3 +29,7 @@ For example the most used case is in cards, so that when one has more content th
 ![multiple equalizer cards example](https://i.imgur.com/pMMVvVi.png)
 
 ### How it works: ⚙⚙⚙
+
+- Each element inside the parent **data-alloy** data-alloyEqualize-multiple will have the same height as the tallest element
+
+- Sibling items **[attr^="data-alloyequalize-watch-"]** are compared as long as they belong to the same parent element, regardless of whether the front-end visually displays a row
