@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal 
-title: Multiple Equalizer Black Magic
+title: Multiple Equalizer
 logo: /src/blackmagic_logo.jpg
 description: Equalizer for multiple elements.
 show_downloads: false
