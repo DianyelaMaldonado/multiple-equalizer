@@ -30,6 +30,6 @@ For example the most used case is in cards, so that when one has more content th
 
 ### How it works: ⚙⚙⚙
 
-- Each element inside the parent **data-alloy** data-alloyEqualize-multiple will have the same height as the tallest element
+- Each element inside the parent **data-alloyEqualize-multiple** will have the same height as the tallest element
 
 - Sibling items **[attr^="data-alloyequalize-watch-"]** are compared as long as they belong to the same parent element, regardless of whether the front-end visually displays a row
