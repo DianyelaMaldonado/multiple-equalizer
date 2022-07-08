@@ -17,13 +17,12 @@ npm i multiple-equalizer
 
 📏 **Example:**
 
-    
-	    <div data-alloyEqualize-multiple>
-		   <div data-alloyequalize-watch-1>Your amazing equalizable content here</div>
-		   <div data-alloyequalize-watch-2>Your amazing equalizable content here</div>
-		   <div data-alloyequalize-watch-3>Your amazing equalizable content here</div>
-	    </div>
-    
+	<div data-alloyEqualize-multiple>
+		<div data-alloyequalize-watch-1>Your amazing equalizable content here</div>
+		<div data-alloyequalize-watch-2>Your amazing equalizable content here</div>
+		<div data-alloyequalize-watch-3>Your amazing equalizable content here</div>
+	</div>
+	
     
 🪐 The end result would be something like this:
 
